@@ -1,6 +1,12 @@
 # Phase_4_Final_Project
 Image classification using CNN
 
+# Important Links
+* [Link to data](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+* [Slideshow](https://docs.google.com/presentation/d/1b00362rOPS9gBajW-z-O9oPM7BEFhORNFb104ckxhlI/edit?usp=sharing)
+* [CNN Collab Notebook](https://colab.research.google.com/drive/1sExb0SCh8HD331YK4vhr5Wa-e4LLqJqG?usp=sharing)
+* [TL/Data Augmentation Collab Notebook](https://colab.research.google.com/drive/12_UjzFoXGqHWx1C8kCmqGyzPNF0UsKpJ?usp=sharing)
+
 ## Our Client
 Our client, a national non-profit healthcare provider called WeCare, is developing a virtual doctor, or vMD to aid in opening a series of clinics to service under-resourced areas. To miinimize costs, they'll staff these with technicians and Nurse Practitioners, who will be able to test, diagnose and perscribe with the additional assistance of vMD. Our small part of this monumental task is building a deep neural network that detects pediatric pnuemonia with a significant degree of precision and recall.
 
