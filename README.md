@@ -8,7 +8,7 @@ Image classification using CNN
 * [TL/Data Augmentation Collab Notebook](https://colab.research.google.com/drive/12_UjzFoXGqHWx1C8kCmqGyzPNF0UsKpJ?usp=sharing)
 
 ## Our Client
-Our client, a national non-profit healthcare provider called WeCare, is developing a virtual doctor, or vMD to aid in opening a series of clinics to service under-resourced areas. To miinimize costs, they'll staff these with technicians and Nurse Practitioners, who will be able to test, diagnose and perscribe with the additional assistance of vMD. Our small part of this monumental task is building a deep neural network that detects pediatric pnuemonia with a significant degree of precision and recall.
+Our client, a national non-profit healthcare provider called WeCare, is developing a virtual doctor, or vMD to aid in opening a series of clinics to service under-resourced areas. To minimize costs, they'll staff these with technicians and Nurse Practitioners, who will be able to test, diagnose and perscribe with the additional assistance of vMD. Our small part of this monumental task is building a deep neural network that detects pediatric pnuemonia with a significant degree of precision and recall.
 
 ## The Problem With Pneumonia
 Over the last 20 years, pneumonia has been a leading cause of death for children under 5 worldwide, and it is the 6th most common cause of childhood death in the US. In 2019 pneumonia caused the death of 1.9 million children worldwide.  In the U.S., children younger than 5 years of age accounted for 70 percent of pneumonia hospitalizations, at an economic cost of about 1 billion dollars. 
